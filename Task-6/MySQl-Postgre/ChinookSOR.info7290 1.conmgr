@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ChinookSOR.info7290 1"
+  DTS:DTSID="{075D4418-8340-42C8-B59A-C59A9D3BDE6F}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=info7290;Dsn=ChinookSOR;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiXTu0gZuVUOhD5pP2/tupQAAAAACAAAAAAAQZgAAAAEAACAAAABDFGMyH0iiz3FPxaLWb+Fm48sW5By2cGM5YJFJ3DFPWAAAAAAOgAAAAAIAACAAAACbhSr5B+NtDjtDVl02C/nlNAYOZt0n2As4FvqieOGRZnAAAABwrq9OPhOg2PgGyWmqiI+MOHBY6XJzDhdnvPYTJ7k2asTK0m2S/TWrnIlkbLUwkC5bjMClq/7umcPPBqfbkAiTR1cbLLraGpQs1SygyH2INkUW1wbWL9bf6zaa9RgsloSC3CunahVDJFhcFD0YXGJFQAAAAHKtHzLNzOpou6AsTnSfVQux5wHsVedGWP9hinDAALWXeNbVp6zGSdVZpdXRGEBDhc4n5v9xOH3md+D7g5pozyE=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
