@@ -5,3 +5,5 @@ SQL Server
 MYSQL
 PostgreSQL
 Oracle
+
+Project_1.zip consist of the final project I implemented using Retail Database.
